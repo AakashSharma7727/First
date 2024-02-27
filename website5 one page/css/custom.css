@@ -1,0 +1,196 @@
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ a{
+     color: inherit;
+     text-decoration: inherit;
+ }
+
+ body{
+     background-color: #fff;
+     width: 100%;
+ }
+
+ html{
+     scroll-behavior: smooth;
+ }
+
+ .main{
+     width: 1000px;
+     background: white;
+     margin: auto;
+ }
+
+ header{
+     width: 100%;
+     height: 1450px;
+     background: url(../images/headerbg.jpg) fixed no-repeat 50% 0;
+     background-size: cover;
+ }
+
+
+ .logo{
+      width: 120px;
+      margin-top: 80px;
+      margin-right: 50px;
+ }
+
+ .head{
+     width: 100%;
+     display: flex;
+     justify-content: end;
+ }
+
+ .siteimg{
+      width: 400px;
+      margin-top: 80px;
+      padding-right: 10px;
+ }
+
+ .mid2{
+    width: 100%;
+    height: 448px;
+    border-top: #182d55 14px solid;
+    background: rgba(0,0,0,0.5);
+    margin-top: 765px;
+ }
+
+ nav{
+     width: 100%;
+ }
+
+
+ nav ul{
+    list-style: none;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: bold;
+ }
+
+ nav ul li{
+    padding: 10px 10px;
+    border-right: #fff 2px solid; 
+ }
+
+ .middle{
+     width: 100%;
+     height: 251px;
+     border-top: 35px #182d55 solid ;
+     border-bottom: 35px #182d55 solid ;
+     background: url(../images/helicopters.jpg) no-repeat center center;
+ }
+
+ section{
+     width: 100%;
+ }
+
+ #menu1 .top{
+    background: url(../images/frameimg1.jpg) fixed 50% 0 no-repeat;
+    background-size: cover;
+ }
+
+ #menu2 .top{
+    background: url(../images/frameimg2.jpg) fixed 50% 0 no-repeat;
+    background-size: cover;
+ }
+
+ #menu3 .top{
+    background: url(../images/frameimg3.jpg) fixed 50% 0 no-repeat;
+    background-size: cover;
+ }
+
+
+ #menu4 .top{
+    background: url(../images/frameimg4.jpg) fixed 50% 0 no-repeat;
+    background-size: cover;
+ }
+
+ #menu5 .top{
+    background: url(../images/frameimg5.jpg) fixed 50% 0 no-repeat;
+    background-size: cover;
+ }
+
+ .top{
+     width: 100%;
+     height: 320px;
+ }
+
+ .overlay{
+     width: 100%;
+     height: 100%;
+     background: rgba(0,0,0,0.5);
+     
+ }
+
+ .topwrite{
+     width: 750px;
+     margin: auto;
+     height: 300px;
+     padding-top: 160px;
+     
+   
+ }
+ 
+ .word1{
+    width: 230px;
+    border: #fff 2px solid;
+    float: left;
+ }
+
+ .word2{
+    margin: auto;
+  height: 45px;
+  border: 8px white solid;
+  font-size: 26px;
+  color: #FFF;
+  font-weight: bold;
+  padding: 0px 10px;
+  float: left;
+  margin-top: -23px;
+ }
+
+ .bottom{
+    width: 98%;
+    font-size: 24px;
+    color: #182D55;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 100px;
+ }
+
+ .asd{
+    font-size: 24px;
+    color: #182D55;
+    text-align: center;
+ }
+
+ .aass{
+      width: 220px;
+      margin: auto;
+ }
+
+ .backto{
+    width: 840px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 26px;
+    color: #182D55;
+    text-align: center;
+    line-height: 55px;
+ }
+
+ .azx{
+    width: 840px;
+    margin:  auto;
+    font-size: 26px;
+    color: #182D55;
+    text-align: center;
+    border-bottom: #273b60 2px solid;
+ }
